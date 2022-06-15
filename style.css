@@ -1,0 +1,28 @@
+body {
+    background-color: #EAF6F6;
+
+}
+
+hr {
+    border-style: dotted none none none;
+    width: 8%;
+    border-color: lightgray;
+    height: 0;
+    border-width: 5px;
+}
+
+h1 {
+  /*background-color:; */
+    background-size: revert;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+    /* border: black; */
+}
+
+table {
+    mso-cellspacing: 20px;
+}
+
